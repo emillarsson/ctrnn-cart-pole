@@ -45,7 +45,7 @@ The individuals/chromosomes for a controller are a random set of weights and bia
 
 ### Fitness function
 
-The fitness function returns the percentage of longest consecutive time in balance upright as well as within a boundary of the cart track. The fitness function in this case uses &plusmn; 36° and &plusmn; 5 units as boundaries. 
+The fitness function returns the percentage of longest consecutive time in balance upright as well as within a boundary of the cart track. The fitness function in this case uses &plusmn; 36° and &plusmn; 5 meters as boundaries. 
 
 ### Selection and mutation
 
