@@ -54,7 +54,7 @@ The upper half of the highest scoring individuals in the population are saved fo
 ## Results
 
 </br>
-It took the controller around 2000 generations to get to a working state, something that could potentially been speed up by a tighter selection. The .gif in the beginning shows one of the working controllers, and below the best fitness over time can be seen:
+It took the controller around 2000 generations to get to a working state, something that could potentially been sped up by a tighter selection. The .gif in the beginning shows one of the working controllers, and below the best fitness over time can be seen:
 
 <p align="center">
   <img src="images/fitness.png", width="40%"/>
